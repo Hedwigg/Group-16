@@ -4,7 +4,7 @@ John Bemis
 
 Joel Lechman
 
-Logan DavisMOBILE CC TERMINALS 1 LEFT -1Z
+Logan Davis
 ____
 
 
