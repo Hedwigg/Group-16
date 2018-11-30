@@ -6,7 +6,7 @@ Joel Lechman
 
 Logan Davis
 
-___
+&nbsp;
 
 
 ## Introduction:
