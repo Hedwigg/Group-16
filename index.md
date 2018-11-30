@@ -4,7 +4,7 @@ John Bemis
 
 Joel Lechman
 
-Logan Davis
+Logan Davis 
 
 
 &nbsp;
