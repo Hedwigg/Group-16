@@ -60,7 +60,7 @@ From the Cygwin site: "a large collection of GNU and Open Source tools which pro
 10. As with the previous package: Click 'Skip' next to the entry that has the "web" tag under the category header. Again, a version number will appear for that entry.
 
 
-    ![Cygwin install 4.5](./images/cygwininstall4.5.png "wget package small")
+    ![Cygwin install 4.5](./images/CygwinInstall4.5.png "wget package small")
 
 11. Click next at the bottom right to continue & click next again to confirm the installation of the two packages.
 
