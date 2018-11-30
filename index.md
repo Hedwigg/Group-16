@@ -5,8 +5,7 @@ John Bemis
 Joel Lechman
 
 Logan Davis
-
-&nbsp;
+___
 
 
 ## Introduction:
