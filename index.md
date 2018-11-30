@@ -6,13 +6,14 @@ Joel Lechman
 
 Logan Davis
 ___
+&nbsp;
 
 
 ## Introduction:
 This tutorial is for those who would like to set up and use a Linux environment on Windows, as well as set up and use SQLite3 in said environment. In order to be successful with this tutorial, an understanding of the command line, as well as basic computer concepts such as downloading and installing programs is required. It is suggested to use SQLite3 with Cygwin as opposed to the Windows command prompt because Cygwin provides a cleaner workflow with in-terminal editors such as Nano and Vim.
 
 
-
+&nbsp;
 ___
 ## Part one - Installing Cygwin:
 Intro: 
@@ -70,7 +71,7 @@ From the Cygwin site: "a large collection of GNU and Open Source tools which pro
     ![Cygwin home terminal](./images/cygwinterminal.png "cygwin terminal")
 
 
-
+&nbsp;
 ___
 ## Part two - Installing APT-CYG:
 Intro: apt-cyg is a package manager similar to apt-get, rpm, or yum from Linux. 
@@ -101,7 +102,7 @@ Intro: apt-cyg is a package manager similar to apt-get, rpm, or yum from Linux.
     ![Nano install success](./images/nano_install_success.png "nano success")
 
 *Note: If the user runs into the error "Permission Denied," run Cygwin as the Administrator*
-
+&nbsp;
 ___
 ## Part three - Sqlite3:
 
@@ -126,7 +127,7 @@ If your terminal looks like the image below, SQLite3 is running.
 
 
 
-
+&nbsp;
 ___
 ## Part four - Basic SQL:
 
@@ -161,7 +162,7 @@ ___
 For example, it is possible to link the following query by *cID* from student and *collegeID* from College:
 
     ![SelectTwoTables](./images/SQL/SelectTwoTables.PNG "SelectTwoTables")
-
+&nbsp;
 ___
 ### A problem to practice with
 What is the name and school for every student? Display the Student name, Student cID,   	College Name and the College ID.
@@ -172,7 +173,7 @@ Answer:
     ![finalExample](./images/SQL/finalExample.png "finalExample")
 
 
-
+&nbsp;
 ___
 ## Troubleshooting:
 
