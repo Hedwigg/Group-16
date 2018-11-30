@@ -122,6 +122,7 @@ ___
 3. SQLite3 can be ran simply by typing in the command: 
 
         sqlite3
+	
 If your terminal looks like the image below, SQLite3 is running.
 
  ![SQLite3 in interpreter](./images/in_sqlite3_success.PNG "sqlite3 in interpreter")
