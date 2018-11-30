@@ -91,6 +91,7 @@ Intro: apt-cyg is a package manager similar to apt-get, rpm, or yum from Linux.
 3. Test your apt-cyg install by typing:
 
         apt-cyg install nano
+	
     *Note: nano is simply a text editor, and there are other options available. Feel free to use whatever text editor you are most comfortable with.*
 
 
