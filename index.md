@@ -6,6 +6,7 @@ Joel Lechman
 
 Logan Davis
 ___
+
 &nbsp;
 
 
@@ -14,6 +15,7 @@ This tutorial is for those who would like to set up and use a Linux environment 
 
 
 &nbsp;
+
 ___
 ## Part one - Installing Cygwin:
 Intro: 
@@ -72,6 +74,7 @@ From the Cygwin site: "a large collection of GNU and Open Source tools which pro
 
 
 &nbsp;
+
 ___
 ## Part two - Installing APT-CYG:
 Intro: apt-cyg is a package manager similar to apt-get, rpm, or yum from Linux. 
@@ -102,7 +105,9 @@ Intro: apt-cyg is a package manager similar to apt-get, rpm, or yum from Linux.
     ![Nano install success](./images/nano_install_success.png "nano success")
 
 *Note: If the user runs into the error "Permission Denied," run Cygwin as the Administrator*
+
 &nbsp;
+
 ___
 ## Part three - Sqlite3:
 
@@ -128,6 +133,7 @@ If your terminal looks like the image below, SQLite3 is running.
 
 
 &nbsp;
+
 ___
 ## Part four - Basic SQL:
 
@@ -162,7 +168,9 @@ ___
 For example, it is possible to link the following query by *cID* from student and *collegeID* from College:
 
     ![SelectTwoTables](./images/SQL/SelectTwoTables.PNG "SelectTwoTables")
+    
 &nbsp;
+
 ___
 ### A problem to practice with
 What is the name and school for every student? Display the Student name, Student cID,   	College Name and the College ID.
@@ -174,6 +182,7 @@ Answer:
 
 
 &nbsp;
+
 ___
 ## Troubleshooting:
 
